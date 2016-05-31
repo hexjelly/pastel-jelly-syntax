@@ -1,7 +1,7 @@
 {
   "name": "pastel-jelly-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Syntax theme for Atom with gelatinous pastels (I don't know either).",
   "keywords": [
     "syntax",

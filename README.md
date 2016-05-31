@@ -1,3 +1,3 @@
 # pastel-jelly-syntax
 
-Syntax theme for Atom with gelatinous pastels (I don't know either).
+Syntax theme for Atom with pastel colors and dark background.
