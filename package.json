@@ -1,0 +1,17 @@
+{
+  "name": "pastel-jelly-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax theme for Atom with gelatinous pastels (I don't know either).",
+  "keywords": [
+    "syntax",
+    "theme",
+    "pastel",
+    "jelly"
+  ],
+  "repository": "https://github.com/hexjelly/pastel-jelly-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
