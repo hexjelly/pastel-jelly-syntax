@@ -6,4 +6,4 @@ Syntax theme for Atom with pastel colors and dark background.
 
 ![Screenshot example one](https://i.imgur.com/6enuIQt.png)
 
-![Screenshot example one](https://i.imgur.com/g7Bh4Vf.png)
+![Screenshot example two](https://i.imgur.com/g7Bh4Vf.png)
