@@ -354,6 +354,22 @@ atom-text-editor::shadow {
   }
 }
 
+// JSON
+atom-text-editor::shadow {
+  .dictionary.json, .punctuation.array {
+    color: @pastel-purple;
+  }
+
+  .punctuation {
+    &.separator {
+      color: @pastel-yellow;
+    }
+    &.definition.string {
+      color: @pastel-blue;
+    }
+  }
+}
+
 atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
   padding-left: 1px;
