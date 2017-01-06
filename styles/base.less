@@ -300,10 +300,57 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
-.source.gfm .markup {
-  -webkit-font-smoothing: auto;
+// Rust
+atom-text-editor::shadow {
+  .meta.attribute.rust {
+    color: @pastel-yellow;
+  }
+}
+
+.storage.class.std.rust {
+    color: @pastel-blue;
+  }
+
+.meta.type_params.rust {
+  color: @pastel-yellow;
+}
+
+// Markdown
+.gfm {
   &.heading {
     color: @pastel-green;
+  }
+
+  &.entity {
+    color: @pastel-blue;
+  }
+
+  &.definition {
+    color: @pastel-yellow;
+  }
+
+  &.link {
+    color: @pastel-purple;
+  }
+
+  &.support {
+    color: @pastel-yellow;
+  }
+
+  &.raw {
+    color: @pastel-purple;
+  }
+}
+
+// JS
+.js {
+  &.variable {
+    &.parameter.function {
+      color: @pastel-yellow;
+    }
+    &.property {
+      color: @pastel-blue;
+    }
   }
 }
 
