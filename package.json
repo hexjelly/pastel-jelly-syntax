@@ -1,7 +1,7 @@
 {
   "name": "pastel-jelly-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Syntax theme for Atom with pastel colors and dark background.",
   "keywords": [
     "syntax",
