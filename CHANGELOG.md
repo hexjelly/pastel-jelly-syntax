@@ -1,5 +1,13 @@
 # Changelog
 
+## \[0.1.1\] 06.01.2017
+
+### Added
+
+    - JSON syntax coloring.
+    - Extra JS syntax coloring.
+    - Extra Markdown syntax coloring.
+
 ## \[0.1.0\] 02.06.2016
 
 ### Changed
