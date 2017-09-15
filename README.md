@@ -1,5 +1,7 @@
 # pastel-jelly-syntax
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hexjelly/pastel-jelly-syntax.svg)](https://greenkeeper.io/)
+
 Syntax theme for Atom with pastel colors and dark background.
 
 [atom.io](https://atom.io/themes/pastel-jelly-syntax)
